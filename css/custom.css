@@ -1,0 +1,12 @@
+.navbar-sky{
+	background-color: #3F51B5;
+}
+.navbar-sky .navbar-nav > li > a:hover,
+.navbar-sky .navbar-nav > li > a:focus{
+
+	color: #E8EAF6;
+	background-color: transparent;
+}
+.navbar-sky .navbar-brand  {
+	color: #2196F3;
+}
